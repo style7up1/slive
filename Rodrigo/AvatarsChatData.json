@@ -1,0 +1,56 @@
+{
+    "Data": [
+        {
+            "Avatar_Name": "kimberly",
+            "Phone_Nomber": "+09983737362",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar1.png",
+            "Chat_Data_Url": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/RobotChatData.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim1.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim1.mp4"
+        },
+        {
+            "Avatar_Name": "monster",
+            "Phone_Nomber": "+0998371223",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar1.png",
+            "Chat_Data_Url": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/RobotChatData.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim1.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim1.mp4"
+        },
+        {
+            "Avatar_Name": "hangry",
+            "Phone_Nomber": "+33242311244",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar1.png",
+            "Chat_Data_Url": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/RobotChatData.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim1.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim1.mp4"
+        },
+        {
+            "Avatar_Name": "mabila",
+            "Phone_Nomber": "+20923933223",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar1.png",
+            "Chat_Data_Url": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/RobotChatData.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim1.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim1.mp4"
+        }
+    ]
+}

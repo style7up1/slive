@@ -1,0 +1,30 @@
+{
+    "Virtion": "122",
+    "EnableUnityAds": 0,
+    "EnableBannerUnityAds": false,
+    "GameId": "4112955",
+    "PlacementBanner": "Banner_Android",
+    "PlacementInterstitial": "Interstitial_Android",
+    "PlacementRewarded": "Rewarded_Android",
+    "TestMode": true,
+    "UnityOption": 0,
+    "EnableAdmob": 0,
+    "EnableBannerAdmob": true,
+    "IdApp": "ca-app-pub-3940256099942544~3347511713",
+    "IdBanner": "ca-app-pub-3940256099942544/6300978111",
+    "IdInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "IdReward": "ca-app-pub-3940256099942544/5224354917",
+    "IdNative": "ca-app-pub-3940256099942544/2247696110",
+    "AdmobOption": 1,
+    "EnableApplovin": 0,
+    "EnableBannerApplovin": false,
+    "BannerPosition": 1,
+    "SDK_key": "1NalPEKamTmazok1bez4gFWp7DQgIhbTVH5ceIV04wrcQHLUnRymuQ6WyExGJQ-2efqAiP_fyVaOLk0eGMegdK",
+    "EnableOnerAds": 0,
+    "AdsUrl": "https://play.google.com/store/apps/details?id=com.soniiccall.apps",
+    "ImageUrl": "http://194.163.154.196/apps2/kimberly/images/sonic.png",
+    "ImageADS": {
+        "instanceID": 0
+    },
+    "OnerAdsBannerPosition": 0
+}
