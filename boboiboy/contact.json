@@ -1,0 +1,43 @@
+{
+    "Data": [
+        {
+            "Avatar_Name": "rodrigo 1",
+            "Phone_Nomber": "+523628839104",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar5.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/rodrigo/contact/chat/chatbot1.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim5.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim5.mp4"
+        },
+        {
+            "Avatar_Name": "rodrigo 2",
+            "Phone_Nomber": "+523628839104",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar6.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/rodrigo/contact/chat/chatbot1.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim6.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim6.mp4"
+        },
+        {
+            "Avatar_Name": "rodrigo 3",
+            "Phone_Nomber": "+523628839104",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar7.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/rodrigo/contact/chat/chatbot1.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim7.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim7.mp4"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976928981714",
+    "project_id": "kimberly-165b8",
+    "storage_bucket": "kimberly-165b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976928981714:android:ff0ab6641bb949b5d4630b",
+        "android_client_info": {
+          "package_name": "com.kim.callvideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976928981714-ni7f6l6scneb1fefn0v3ek67vv9jqbo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFC-b595ao_eSZc6Za2tastKzmzNHUiT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976928981714-ni7f6l6scneb1fefn0v3ek67vv9jqbo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
