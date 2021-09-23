@@ -1,11 +1,11 @@
 {
     "UpdateJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/update.json",
-    "AdsManagerJsonDataURL": "http://194.163.154.196/apps1/rodrigo/appdata/Adsdata.json",
-    "ContactDataJsonDataURL": "http://194.163.154.196/apps1/rodrigo/appdata/contact.json",
-    "MoreGameJsonDataURL": "http://194.163.154.196/apps1/rodrigo/appdata/adswipe.json",
-    "LockedJsonDataURL": "http://194.163.154.196/apps1/rodrigo/appdata/locked.json",
-    "YourEmail": "master@gmail.com",
-    "RateURL": "https://play.google.com/store/apps/details?id=com.rodrigocall.video",
+    "AdsManagerJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/AdsDATA.json",
+    "ContactDataJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/AvatarsChatData.json",
+    "MoreGameJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/MoreGameData.json",
+    "LockedJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/locked.json",
+    "YourEmail": "Slive",
+    "RateURL": "https\\www.google.com",
     "MoreURL": "https\\www.google.com",
     "ShareText": "hello tray this game its cool ",
     "RobotTimerCall": 0.5619999766349793
