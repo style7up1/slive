@@ -1,0 +1,12 @@
+{
+    "UpdateJsonDataURL": "http://194.163.154.196/apps1/scarytom/appdata/update.json",
+    "AdsManagerJsonDataURL": "http://194.163.154.196/apps1/adsall/ads/Adsdata5.json",
+    "ContactDataJsonDataURL": "http://194.163.154.196/apps1/allcontact/contact5.json",
+    "MoreGameJsonDataURL": "http://194.163.154.196/apps1/adsall/swipe/adswipe5.json",
+    "LockedJsonDataURL": "http://194.163.154.196/apps1/scarytom/appdata/locked.json",
+    "YourEmail": "master@gmail.com",
+    "RateURL": "https://play.google.com/store/apps/details?id=com.scarytomcall.pranks",
+    "MoreURL": "https://play.google.com/store/apps/developer?id=GAMINTO+LTD",
+    "ShareText": "hello tray this game its cool ",
+    "RobotTimerCall": 0.5619999766349793
+}
