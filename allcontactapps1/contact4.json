@@ -1,0 +1,56 @@
+{
+    "Data": [
+        {
+            "Avatar_Name": "luccas PT",
+            "Phone_Nomber": "+553628839104",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps1/neto/contact/avatars/avatar1.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/rodrigo/contact/chat/chatbot1.json",
+            "Call_Data_Url": "http://194.163.154.196/apps1/neto/contact/audios/neto1.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps1/neto/contact/videos/neto1.mp4"
+        },
+        {
+            "Avatar_Name": "squid game",
+            "Phone_Nomber": "+9076391411",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/squidgame1/contact/avatars/avatar1.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/squigamd1/contact/chat/scarydoll1.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/squigamd1/contact/audios/doll.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/squidgame1/contact/videos/doll.mp4"
+        },
+        {
+            "Avatar_Name": "LuccasEN",
+            "Phone_Nomber": "+503618239902",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps1/neto/contact/avatars/avatar6.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/rodrigo/contact/chat/chatbot1.json",
+            "Call_Data_Url": "http://194.163.154.196/apps1/neto/contact/audios/neto2.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps1/neto/contact/videos/neto2.mp4"
+        },
+        {
+            "Avatar_Name": "FelipeNeto",
+            "Phone_Nomber": "+593528839177",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps1/neto/contact/avatars/avatar3.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/rodrigo/contact/chat/chatbot3.json",
+            "Call_Data_Url": "http://194.163.154.196/apps1/neto/contact/audios/neto3.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps1/neto/contact/videos/neto3.mp4"
+        }
+    ]
+}

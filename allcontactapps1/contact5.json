@@ -1,0 +1,56 @@
+{
+    "Data": [
+        {
+            "Avatar_Name": "tom.exe",
+            "Phone_Nomber": "+09983737362",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps1/scarytom/contact/avatars/avatar1.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/scarytom/contact/chat/chatbot1.json",
+            "Call_Data_Url": "http://194.163.154.196/apps1/scarytom/contact/audios/tom1.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps1/scarytom/contact/videos/tom1.mp4"
+        },
+        {
+            "Avatar_Name": "squid game",
+            "Phone_Nomber": "+9076391411",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/squidgame1/contact/avatars/avatar1.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/squigamd1/contact/chat/scarydoll1.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/squigamd1/contact/audios/doll.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/squidgame1/contact/videos/doll.mp4"
+        },
+        {
+            "Avatar_Name": "tom",
+            "Phone_Nomber": "+09983737362",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps1/scarytom/contact/avatars/avatar2.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/scarytom/contact/chat/chatbot2.json",
+            "Call_Data_Url": "http://194.163.154.196/apps1/scarytom/contact/audios/tom2.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps1/scarytom/contact/videos/tom2.mp4"
+        },
+        {
+            "Avatar_Name": "soniic.exe",
+            "Phone_Nomber": "+09983737362",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps1/scarytom/contact/avatars/avatar3.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/scarytom/contact/chat/chatbot3.json",
+            "Call_Data_Url": "http://194.163.154.196/apps1/scarytom/contact/audios/tom3.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps1/scarytom/contact/videos/tom3.mp4"
+        }
+    ]
+}
