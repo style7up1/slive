@@ -1,0 +1,56 @@
+{
+    "Data": [
+        {
+            "Avatar_Name": "morgenshtern",
+            "Phone_Nomber": "+523628839104",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar10.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/morgenshtern1/contact/chat/english.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim10.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim10.mp4"
+        },
+        {
+            "Avatar_Name": "morgenshtern",
+            "Phone_Nomber": "+523628839104",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/kimberly/contact/avatars/avatar10.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/morgenshtern1/contact/chat/russien.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/audios/kim10.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/kimberly/contact/videos/kim10.mp4"
+        },
+        {
+            "Avatar_Name": "belybeto EN",
+            "Phone_Nomber": "+523628839104",
+            "Online": true,
+            "Show_In_forst_Load": false,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps1/belybeto/contact/avatars/avatar2.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/belybeto/contact/chat/chatbot2.json",
+            "Call_Data_Url": "http://194.163.154.196/apps1/belybeto/contact/audios/bely2.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps1/belybeto/contact/videos/bely2.mp4"
+        },
+        {
+            "Avatar_Name": "raptorgamer",
+            "Phone_Nomber": "+523628839104",
+            "Online": true,
+            "Show_In_forst_Load": false,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/invictor/contact/avatars/avatar4.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/belybeto/contact/chat/chatbot3.json",
+            "CallDataUrl": "http://194.163.154.196/apps2/invictor/contact/audios/invictor4.mp3",
+            "VideoDataUrl": "http://194.163.154.196/apps2/invictor/contact/videos/invictor4.mp4"
+        }
+    ]
+}

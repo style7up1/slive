@@ -1,0 +1,30 @@
+{
+    "Data": [
+        {
+            "Avatar_Name": "cartoon cat",
+            "Phone_Nomber": "+523628839104",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/cartooncat1/contact/avatars/cartoon1.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/morgenshtern1/contact/chat/english.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/cartooncat1/contact/audios/cat1.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/cartooncat1/contact/videos/cat1.mp4"
+        },
+        {
+            "Avatar_Name": "cartoon cat",
+            "Phone_Nomber": "+523628839104",
+            "Online": true,
+            "Show_In_forst_Load": true,
+            "Icon": {
+                "instanceID": 0
+            },
+            "Icon_Url": "http://194.163.154.196/apps2/allcontact/avatars/cartoon2.png",
+            "Chat_Data_Url": "http://194.163.154.196/apps1/morgenshtern1/contact/chat/russien.json",
+            "Call_Data_Url": "http://194.163.154.196/apps2/cartooncat1/contact/audios/cat2.mp3",
+            "Video_Data_Url": "http://194.163.154.196/apps2/cartooncat1/contact/videos/cat2.mp4"
+        }
+    ]
+}
