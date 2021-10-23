@@ -1,0 +1,12 @@
+{
+    "UpdateJsonDataURL": "http://194.163.154.196/apps1/belybeto/appdata/update.json",
+    "AdsManagerJsonDataURL": "http://194.163.154.196/apps1/adsall/ads/Adsdata7.json",
+    "ContactDataJsonDataURL": "http://194.163.154.196/apps1/allcontact/contact7.json",
+    "MoreGameJsonDataURL": "http://194.163.154.196/apps1/adsall/swipe/adswipe7.json",
+    "LockedJsonDataURL": "http://194.163.154.196/apps1/belybeto/appdata/locked.json",
+    "YourEmail": "master@gmail.com",
+    "RateURL": "https://play.google.com/store/apps/details?id=com.belybetocall.video",
+    "MoreURL": "https://play.google.com/store/apps/developer?id=GAMINTO+LTD",
+    "ShareText": "hello tray this game its cool ",
+    "RobotTimerCall": 0.5619999766349793
+}
