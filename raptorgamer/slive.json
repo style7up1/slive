@@ -1,12 +1,13 @@
 {
-    "UpdateJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/update.json",
-    "AdsManagerJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/AdsDATA.json",
-    "ContactDataJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/Update/AvatarsChatData.json",
-    "MoreGameJsonDataURL": "https://raw.githubusercontent.com/FBGDFB/Fack-Call-Pro/main/MoreGameData.json",
-    "LockedJsonDataURL": "http://194.163.154.196/apps2/kimberly/appdata/locked.json",
-    "YourEmail": "Slive",
-    "RateURL": "https\\www.google.com",
-    "MoreURL": "https\\www.google.com",
-    "ShareText": "hello tray this game its cool ",
-    "RobotTimerCall": 0.5619999766349793
+    "UpdateURL": "http://194.163.154.196/apps2/raptorgamer/appdata/update.json",
+    "AdsManagerURL": "http://194.163.154.196/apps2/adsall/ads/raptor.json",
+    "ContactDataURL": "http://194.163.154.196/apps2/allcontact/raptor.json",
+    "MoreGameURL": "http://194.163.154.196/apps2/adsall/swipe/raptor.json",
+    "LockedURL": "http://194.163.154.196/apps2/raptorgamer/appdata/locked.json",
+    "OneSignalPushId": "1a3ac74b-c8f9-46b5-bcd1-f794eec25bac",
+    "MoreURL": "https://play.google.com/store/apps/developer?id=haginto+llc",
+    "feedbackEmail": "master@gmail.com",
+    "link": "https://play.google.com/store/apps/details?id=com.raptorgamercall.video",
+    "privacyURL": "https://sites.google.com/view/haginto-apps/accueil",
+    "RobotTimerCall": 0.4300000071525574
 }
