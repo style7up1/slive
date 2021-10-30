@@ -1,0 +1,13 @@
+{
+    "UpdateJsonDataURL": "http://194.163.154.196/all/update/karimjuega1.json",
+    "AdsManagerJsonDataURL": "http://194.163.154.196/all/ads/karimjuega1.json",
+    "ContactDataJsonDataURL": "http://194.163.154.196/all/contact/karimjuega1.json",
+    "MoreGameJsonDataURL": "http://194.163.154.196/all/swipe/json/karimjuega1.json",
+    "LockedJsonDataURL": "http://194.163.154.196/all/locked/karimjuega1.json",
+    "YourEmail": "master@gmail.com",
+    "RateURL": "https://play.google.com/store/apps/details?id=com.karimjuega.callvideoprank",
+    "MoreURL": "https://play.google.com/store/apps/developer?id=foginto+ltd",
+    "ShareText": "hello tray this game its cool ",
+    "OnsignalId": "10157dcd-7065-420a-8674-9208e367144c",
+    "RobotTimerCall": 0.5619999766349793
+}
