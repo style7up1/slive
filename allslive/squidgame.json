@@ -1,0 +1,13 @@
+{
+    "UpdateURL": "http://194.163.154.196/all/update/update.json",
+    "AdsManagerURL": "http://194.163.154.196/all/adsall/ads/eltrollino1.json",
+    "ContactDataURL": "http://194.163.154.196/apps2/allcontact/raptor.json",
+    "MoreGameURL": "http://194.163.154.196/apps2/adsall/swipe/raptor.json",
+    "LockedURL": "http://194.163.154.196/apps1/kitchen/appdata/locked.json",
+    "OneSignalPushId": "1a3ac74b-c8f9-46b5-bcd1-f794eec25bac",
+    "MoreURL": "",
+    "feedbackEmail": "master@gmail.com",
+    "link": "https://play.google.com/store/apps/details?id=com.raptorgamercall.video",
+    "privacyURL": "[www.PrivacyPoliceUrl.com]",
+    "RobotTimerCall": 0.4300000071525574
+}
